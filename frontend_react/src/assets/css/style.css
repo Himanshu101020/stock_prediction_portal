@@ -1,0 +1,18 @@
+body{
+    background-color: #1F2329;
+}
+.container-fluid{
+    background-color: #1E2329;
+    border-bottom: 1px solid #2D333B;
+    box-shadow: 0 0 5px 0 #ffffff6b;
+}
+.info-content{
+    background-color: #2D333B;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 0 #ffffff6b;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
