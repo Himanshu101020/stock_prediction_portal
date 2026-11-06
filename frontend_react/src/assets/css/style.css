@@ -1,6 +1,9 @@
 body{
     background-color: #1F2329;
 }
+.bg-light-dark{
+    background-color: #2D333B;
+}
 .container-fluid{
     background-color: #1E2329;
     border-bottom: 1px solid #2D333B;

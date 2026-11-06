@@ -13,7 +13,7 @@ const Main = () => {
             Welcome to the ultimate platform for forecasting market trends using Machine Learning. Predict the future of your stocks with accuracy and confidence.
           </p>
           
-          <Button text="Login" class="btn btn-info" />
+          <Button text="Login" class="btn-info" url="/login"/>
           
         </div>
       </div>
